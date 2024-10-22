@@ -1,5 +1,5 @@
 *************************************************************************************************
-L-System
+# L-System
 *************************************************************************************************
 This program implements some of the L-Systems discussed in "Lecture Notes in Biomathematics" by Przemyslaw Prusinkiewcz and James Hanan. A brief description of an L-System will be presented here but for a more complete description the user should consult the literature.
 
